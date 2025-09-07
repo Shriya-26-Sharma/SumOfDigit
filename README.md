@@ -1,1 +1,1 @@
-# Factorial
+# Sum of digits
